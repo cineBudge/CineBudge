@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Site made with Mobirise Website Builder v5.3.0, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v5.3.0, mobirise.com">
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:image:src" content="assets/images/visualization-meta.png">
+  <meta property="og:image" content="assets/images/visualization-meta.png">
+  <meta name="twitter:title" content="Visualization">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
+  <meta name="description" content="">
+  
+  
+  <title>Visualization</title>
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript" src="loader.js"></script>
+  <script type="text/javascript" src="cinemaExtend.js"></script>
+  <script src="https://www.google.com/jsapi"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+  
+</head>
+<body>
+  
+  <section class="menu menu1 cid-sqE8yb9Tw9" once="menu" id="menu1-1v">
+    
+
+    <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+        <div class="container">
+            <div class="navbar-brand">
+                
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-primary display-7" href="https://mobiri.se">CineBudge</a></span>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-primary display-4" href="index.html">Home</a></li><li class="nav-item"><a class="nav-link link text-primary display-4" href="documentation.html" aria-expanded="true">Documentation</a></li><li class="nav-item"><a class="nav-link link text-primary display-4" href="catalog.html" aria-expanded="true">Catalog</a></li>
+                    <li class="nav-item"><a class="nav-link link text-primary display-4" href="metadata.html">Metadata</a></li>
+                    <li class="nav-item"><a class="nav-link link text-primary display-4" href="visualization.html">Visualization</a>
+                    </li></ul>
+                
+            </div>
+        </div>
+    </nav>
+</section>
+
+<section class="content4 cid-sqTd2h2sJw" id="content4-24">
+    
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="title col-md-12 col-lg-10">
+                <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-5">
+                    <strong>Visualization</strong></h3>
+                <h4 class="mbr-section-subtitle align-center mbr-fonts-style mb-4 display-7"></h4>
+                
+            </div>
+        </div>
+    </div>
+</section>
+      
+
+ <div class="tab-content">
+      <div id="tab1" class="tab-pane in active" role="tabpanel">
+        <div class="container">
+          <div class="row card-row">
+            <div class="col-sm-6 d-flex each-card">
+              <div class="container">
+                <div id="media-container-row">
+                  <div class="cinemaExtend" id="cinemaExtend"></div>
+                </div>
+                <div>
+                  <br/>
+                  <p><b>Legend:</b> The colored map demonstrate us how much the major economies of European countries spend on Cinema. 2013–2017.<br><b>*No data available for Germany in 2013</b><b><br>**No data available for Germany in 2013</b></p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-sm-6 d-flex each-card">
+              <div class="container">
+                <h3>Cinema Extenditure for Countries Map and Data between 2013-2017 years (EUR) </h3>
+                <p>
+                   <div class="nav-item"><a class="mbr-text mbr-fonts-style display-7" href="visualization.html" style=color:#6497b1> <strong>Average Ticket Price between 2013-2017 years (EUR) </strong></a></div>
+                   <div class="nav-item"><a class="mbr-text mbr-fonts-style display-7" href="cinemaExtend.html" style=color:#003c7b> <strong>Cinema Extenditure for Countries Map and Data</strong></a></div>
+                   <div class="nav-item"><a class="mbr-text mbr-fonts-style display-7" href="pandemic.html" style=color:#6497b1> <strong>The number of movie theaters visitors since the beginning of the pandemic</strong></a></div>
+                   <div class="nav-item"><a class="mbr-text mbr-fonts-style display-7" href="narrativeLocation.html" style=color:#6497b1> <strong>Movies and their narrative location on a map</strong></a></div>
+                <div>
+                  <canvas id="regions_div"></canvas>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="container">
+            <canvas id="myChart"></canvas>
+        </div>
+        
+        <script>
+            let myChart = document.getElementById('myChart').getContext('2d');
+            
+        
+            Chart.defaults.global.defaultFontFamily = 'Lato';
+            Chart.defaults.global.defaultFontSize = 18;
+            Chart.defaults.global.defaultFontColor = '#777';
+
+            
+            
+            let massPopChart = new Chart(myChart, {
+                type:'polarArea', // bar, horizontalBar, pie, line, dougnut, radar, polarArea
+                data:{
+                    labels:['Austria', 'Italy', 'Belgium', 'Germany', 'Spain', 'Denmark', 'France', 'Sweden', 'Finland', 'Netherland', 'Portugal'],
+                    datasets:[{
+                        label:'Expenditure',
+                        data:[
+                            16.5, 
+                            11.6, 
+                            15.16, 
+                            14, 
+                            13.48, 
+                            22.45,
+                            23.8,
+                            22.18,
+                            17.7,
+                            17.86,
+                            7.74
+                        ],
+                        //backgroundColor:'green'
+                        backgroundColor:[
+                            'rgba(255, 99, 132, 0.6)',
+                            'rgba(54, 162, 235, 0.6)',
+                            'rgba(255, 206, 86, 0.6)',
+                            'rgba(75, 192, 192, 0.6)',
+                            'rgba(153, 102, 255, 0.6)',
+                            'rgba(255, 159, 64, 0.6)',
+                            'rgba(255, 80, 50, 0.6)',
+                            'rgba(255, 42, 255, 0.6)',
+                            'rgba(255, 5, 100, 0.6)',
+                            'rgba(255,0,0,0.6)',
+                            'rgba(0,255,0,0.3)',
+                            'rgba(0,0,255,0.3)'
+                            
+                        ],
+                        borderWidth:1,
+                        borderColor:'#777',
+                        hoverBorderWidth:3,
+                        hoverBorderColor:'#000'
+                    }]
+                },
+                options:{
+                    title:{
+                        display:true,
+                        text:'Cinema expenditure per capita between 2013-2017 (EUR)',
+                        fontSize:25
+                    },
+                    legend:{
+                        display:true,
+                        position:'right',
+                        labels:{
+                            frontColor:'#000'
+                        }
+                    },
+                    layout:{
+                        padding:{
+                            left:50,
+                            right:0,
+                            bottom:0,
+                            top:0
+                        }
+                    }
+                }
+            });
+        
+        
+        </script>
+        
+
+<section class="footer7 cid-sqf7NStVLL" once="footers" id="footer7-17">
+
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            <div class="col-12">
+                <p class="mbr-text mb-0 mbr-fonts-style display-7">
+                    CineBudge project has been realized by <em><strong><a href="mailto:deniz.tural@studio.unibo.it" class="text-warning">Deniz Tural</a></strong></em> and <em><strong><a href="mailto:umut.kucuk@studio.unibo.it" class="text-info">Umut Küçük</a></strong></em> as final examination for the “Open Access and Digital Ethics” course of <a href="https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge" class="text-warning" target="_blank">Digital Humanities and Digital Knowledge</a> Master Degree at the University of Bologna, under prof. <a href="mailto:monica.palmirani@unibo.it" class="text-info">Monica Palmirani</a> for the a.y. 2020/2021<br><br>This work licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="text-info" target="_blank" style="">CC BY-SA 4.0</a>.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/v" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;"><a href="https://mobirise.site/d" style="color:#aaa;">This site</a> was built with Mobirise</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
+  
+ <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
+  </body>
+</html>
