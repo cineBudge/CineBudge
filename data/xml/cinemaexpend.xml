@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>AUT</LOCATION>
+    <Country>Austria</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>16.3</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>AUT</LOCATION>
+    <Country>Austria</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>15.5</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>AUT</LOCATION>
+    <Country>Austria</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>17.5</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>AUT</LOCATION>
+    <Country>Austria</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>17</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>AUT</LOCATION>
+    <Country>Austria</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>16.7</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>BEL</LOCATION>
+    <Country>Belgium</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>14.9</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>BEL</LOCATION>
+    <Country>Belgium</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>14.6</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>BEL</LOCATION>
+    <Country>Belgium</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>15.7</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>BEL</LOCATION>
+    <Country>Belgium</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>14.7</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>BEL</LOCATION>
+    <Country>Belgium</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>15.9</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>DNK</LOCATION>
+    <Country>Denmark</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>161.5</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>DNK</LOCATION>
+    <Country>Denmark</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>155.6</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>DNK</LOCATION>
+    <Country>Denmark</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>182.5</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>DNK</LOCATION>
+    <Country>Denmark</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>172.9</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>DNK</LOCATION>
+    <Country>Denmark</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>164.5</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>FIN</LOCATION>
+    <Country>Finland</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>15.3</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>FIN</LOCATION>
+    <Country>Finland</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>14.7</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>FIN</LOCATION>
+    <Country>Finland</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>18.3</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>FIN</LOCATION>
+    <Country>Finland</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>20.2</Value>
+    <Flag Codes>‡</Flag Codes>
+    <Flags>UIS Estimation</Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>FIN</LOCATION>
+    <Country>Finland</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>20</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>FRA</LOCATION>
+    <Country>France</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>21.9</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>FRA</LOCATION>
+    <Country>France</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>23.1</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>FRA</LOCATION>
+    <Country>France</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>23.1</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>FRA</LOCATION>
+    <Country>France</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>24</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>FRA</LOCATION>
+    <Country>France</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>23.8</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>DEU</LOCATION>
+    <Country>Germany</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>14.2</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>ITA</LOCATION>
+    <Country>Italy</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>11.6</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>ITA</LOCATION>
+    <Country>Italy</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>10.8</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>ITA</LOCATION>
+    <Country>Italy</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>12</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>ITA</LOCATION>
+    <Country>Italy</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>12.5</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>ITA</LOCATION>
+    <Country>Italy</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>11.1</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>NLD</LOCATION>
+    <Country>Netherlands</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>16.4</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>NLD</LOCATION>
+    <Country>Netherlands</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>16.4</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>NLD</LOCATION>
+    <Country>Netherlands</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>18</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>NLD</LOCATION>
+    <Country>Netherlands</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>18.8</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>NLD</LOCATION>
+    <Country>Netherlands</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>19.7</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>PRT</LOCATION>
+    <Country>Portugal</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>6.9</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>PRT</LOCATION>
+    <Country>Portugal</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>6.7</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>PRT</LOCATION>
+    <Country>Portugal</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>8</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>PRT</LOCATION>
+    <Country>Portugal</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>8.3</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>PRT</LOCATION>
+    <Country>Portugal</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>8.8</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>ESP</LOCATION>
+    <Country>Spain</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>12.2</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>ESP</LOCATION>
+    <Country>Spain</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>12.5</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>ESP</LOCATION>
+    <Country>Spain</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>13.9</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>ESP</LOCATION>
+    <Country>Spain</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>14.5</Value>
+    <Flag Codes>‡</Flag Codes>
+    <Flags>UIS Estimation</Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>ESP</LOCATION>
+    <Country>Spain</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>14.3</Value>
+    <Flag Codes>‡</Flag Codes>
+    <Flags>UIS Estimation</Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>SWE</LOCATION>
+    <Country>Sweden</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>192.4</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>SWE</LOCATION>
+    <Country>Sweden</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>191.1</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>SWE</LOCATION>
+    <Country>Sweden</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>208.3</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FEXP_PC</INDICATOR>
+    <Indicator>Cinema expenditure per capita (in local currency)</Indicator>
+    <LOCATION>SWE</LOCATION>
+    <Country>Sweden</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>219.8</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+</root>

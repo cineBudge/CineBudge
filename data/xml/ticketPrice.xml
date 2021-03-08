@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>AUT</LOCATION>
+    <Country>Austria</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>8.2</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>AUT</LOCATION>
+    <Country>Austria</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>8.4</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>AUT</LOCATION>
+    <Country>Austria</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>8.6</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>AUT</LOCATION>
+    <Country>Austria</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>8.8</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>AUT</LOCATION>
+    <Country>Austria</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>9</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>BEL</LOCATION>
+    <Country>Belgium</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>7</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>BEL</LOCATION>
+    <Country>Belgium</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>7</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>BEL</LOCATION>
+    <Country>Belgium</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>7</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>BEL</LOCATION>
+    <Country>Belgium</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>7.6</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>BEL</LOCATION>
+    <Country>Belgium</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>8.2</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>DNK</LOCATION>
+    <Country>Denmark</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>63.7</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>DNK</LOCATION>
+    <Country>Denmark</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>66.7</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>DNK</LOCATION>
+    <Country>Denmark</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>68.2</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>DNK</LOCATION>
+    <Country>Denmark</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>68.9</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>DNK</LOCATION>
+    <Country>Denmark</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>71.6</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>FIN</LOCATION>
+    <Country>Finland</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>9.6</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>FIN</LOCATION>
+    <Country>Finland</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>9.8</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>FIN</LOCATION>
+    <Country>Finland</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>10.3</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>FIN</LOCATION>
+    <Country>Finland</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>11.4</Value>
+    <Flag Codes>‡</Flag Codes>
+    <Flags>UIS Estimation</Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>FIN</LOCATION>
+    <Country>Finland</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>11.2</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>FRA</LOCATION>
+    <Country>France</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>6.5</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>FRA</LOCATION>
+    <Country>France</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>6.4</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>FRA</LOCATION>
+    <Country>France</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>6.5</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>FRA</LOCATION>
+    <Country>France</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>6.5</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>FRA</LOCATION>
+    <Country>France</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>6.6</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>DEU</LOCATION>
+    <Country>Germany</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>8.1</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>ITA</LOCATION>
+    <Country>Italy</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>6.3</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>ITA</LOCATION>
+    <Country>Italy</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>6.3</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>ITA</LOCATION>
+    <Country>Italy</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>6.4</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>ITA</LOCATION>
+    <Country>Italy</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>6.3</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>ITA</LOCATION>
+    <Country>Italy</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>6.3</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>NLD</LOCATION>
+    <Country>Netherlands</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>8.1</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>NLD</LOCATION>
+    <Country>Netherlands</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>8.1</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>NLD</LOCATION>
+    <Country>Netherlands</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>8.4</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>NLD</LOCATION>
+    <Country>Netherlands</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>8.4</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>NLD</LOCATION>
+    <Country>Netherlands</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>8.4</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>ESP</LOCATION>
+    <Country>Spain</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>6.4</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>ESP</LOCATION>
+    <Country>Spain</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>5.9</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>ESP</LOCATION>
+    <Country>Spain</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>6</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>ESP</LOCATION>
+    <Country>Spain</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>5.9</Value>
+    <Flag Codes>‡</Flag Codes>
+    <Flags>UIS Estimation</Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>ESP</LOCATION>
+    <Country>Spain</Country>
+    <TIME>2017</TIME>
+    <Time>2017</Time>
+    <Value>5.9</Value>
+    <Flag Codes>‡</Flag Codes>
+    <Flags>UIS Estimation</Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>SWE</LOCATION>
+    <Country>Sweden</Country>
+    <TIME>2013</TIME>
+    <Time>2013</Time>
+    <Value>99.1</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>SWE</LOCATION>
+    <Country>Sweden</Country>
+    <TIME>2014</TIME>
+    <Time>2014</Time>
+    <Value>102</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>SWE</LOCATION>
+    <Country>Sweden</Country>
+    <TIME>2015</TIME>
+    <Time>2015</Time>
+    <Value>107.3</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+  <row>
+    <INDICATOR>FBORADM</INDICATOR>
+    <Indicator>Average ticket price (in local currency)</Indicator>
+    <LOCATION>SWE</LOCATION>
+    <Country>Sweden</Country>
+    <TIME>2016</TIME>
+    <Time>2016</Time>
+    <Value>108.4</Value>
+    <Flag Codes></Flag Codes>
+    <Flags></Flags>
+  </row>
+</root>

@@ -1,0 +1,220 @@
+@base <https://cineBudge.github.io/>.
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dcatap: <http://data.europa.eu/r5r/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#>.
+@prefix adms: <http://www.w3.org/ns/adms#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+
+<data/id>
+  a dcat:Catalog;
+  dct:title "CineBudge Catalog"@en ;
+  rdfs:label "CineBudge Catalog"@en ;
+  foaf:homepage <catalog.html> ;
+  dct:publisher "Deniz Tural","Umut Kucuk" ;
+  dct:language <http://id.loc.gov/vocabulary/iso639-1/en> ;
+  dcat:dataset <data/id/top10.zip>;
+  dcat:dataset <data/id/language.zip>;
+  dcat:dataset <data/id/coproduction.zip>;
+  dcat:dataset <data/id/financing.zip>;
+  dcat:dataset <data/id/genre.zip>;
+  dcat:dataset <data/id/admissionEU.zip>;
+  dcat:dataset <data/id/digitalStreaming.zip>;
+  dcat:dataset <data/id/pandemic.zip>;
+  dcat:dataset <data/id/narrativeLocation.zip>;
+
+<data/id/top10.zip>
+    a dcat:Dataset;
+    dct:identifier <data/id/Top_10_Feature_Films>;
+    dct:title "CineBudge - Top 10 Feature Films Exhibited By Admissions "@en;
+    dct:description "This data contains the top 10 feature films in all countries."@en;
+    foaf:homepage <https://cineBudge.github.io/metadata.html>;
+    dct:modified "2020/03/03"^^xsd:date;
+    dct:rightsHolder <http://data.uis.unesco.org/Index.aspx#>;
+    dct:publisher "Deniz Tural", "Umut Kucuk";
+    dct:issued "2020/02/01"^^xsd:date;
+    dcat:keyword "movies"@en, "top_10"@en, "Countries"@en ;
+    dct:spatial <http://sws.geonames.org/6695072/>;
+    dct:language <https://en.unesco.org/>;
+    dct:language <https://fr.unesco.org/>;
+    dcat:distribution: <data/csv/top10.csv>;
+    dcat:distribution: <data/json/top10.json>;
+    dcat:distribution: <data/xml/top10.xml>;
+    foaf:Organization "Unesco";
+    dct:rights "All contents on this website are protected by copyright. UNESCO is pleased to allow those who may choose to access the site to download and copy the materials for their personal, non-commercial use.".
+</data/id/Top_10_Feature_Films>  
+
+
+<data/id/language.zip>  
+    a dcat:Dataset;
+    dct:identifier <data/id/Language_of_Film_Production >;
+    dct:title "CineBudge - Language of Film Production  "@en;
+    dct:description "This data contains information about production language of movies."@en;
+    foaf:homepage <https://cineBudge.github.io/metadata.html>;
+    dct:modified "2020/03/03"^^xsd:date;
+    dct:rightsHolder <http://data.uis.unesco.org/Index.aspx#>;
+    dct:publisher "Deniz Tural", "Umut Kucuk";
+    dct:issued "2017-2017"^^xsd:date;
+    dcat:keyword "language"@en, "countries"@en, "movies"@en ;
+    dct:spatial <http://sws.geonames.org/6695072/>
+    dct:language <https://en.unesco.org/>;
+    dct:language <https://fr.unesco.org/>;
+    dcat:distribution: <data/csv/language.csv>;
+    dcat:distribution: <data/json/language.json>;
+    dcat:distribution: <data/xml/language.xml>;
+    dct:rights "All contents on this website are protected by copyright. UNESCO is pleased to allow those who may choose to access the site to download and copy the materials for their personal, non-commercial use.".
+</data/id/language_of_Film_Production>
+
+
+<data/id/coproduction.zip>  
+    a dcat:Dataset;
+    dct:identifier <data/id/coproduction_top10>;
+    dct:title "CineBudge - Origin of Top 10 Co-Producing Countries Ranked By Number"@en;
+    dct:description "This data contains the top 10 feature films in all countries."@en;
+    foaf:homepage <https://cineBudge.github.io/metadata.html>;
+    dct:modified "2020/03/03"^^xsd:date;
+    dct:rightsHolder <http://data.uis.unesco.org/Index.aspx#>;
+    dct:publisher "Deniz Tural", "Umut Kucuk";
+    dct:issued "2020/03/03"^^xsd:date;
+    dcat:keyword "co-production"@en, "film"@en, "countries"@en ;
+    dct:spatial <http://sws.geonames.org/6695072/>;
+    dct:language <https://en.unesco.org/>;
+    dct:language <https://fr.unesco.org/>;
+    dcat:distribution: <data/csv/coproduction.csv>;
+    dcat:distribution: <data/json/coproduction.json>;
+    dcat:distribution: <data/xml/coproduction.xml>;
+    foaf:Organization "Unesco";
+    dct:rights "All contents on this website are protected by copyright. UNESCO is pleased to allow those who may choose to access the site to download and copy the materials for their personal, non-commercial use.".
+</data/id/Top_10_Feature_Films>  
+
+<data/id/financing.zip>  
+    a dcat:Dataset;
+    dct:identifier <data/id/method_of_financing>;
+    dct:title "CineBudge - Origin of Top 10 Co-Producing Countries Ranked By Number"@en;
+    dct:description "This data contains majority and minority co-production and how many movies issued as 100% nationally"@en;
+    foaf:homepage <https://cineBudge.github.io/metadata.html>;
+    dct:modified "2020/03/03"^^xsd:date;
+    dct:rightsHolder <http://data.uis.unesco.org/Index.aspx#>;
+    dct:publisher "Deniz Tural", "Umut Kucuk";
+    dct:issued "2020/03/03"^^xsd:date;
+    dcat:keyword "financing"@en, "majority"@en, "countries"@en ;
+    dct:spatial <http://sws.geonames.org/6695072/>;
+    dct:language <https://en.unesco.org/>  ;
+    dct:language <https://fr.unesco.org/>  ;
+    dcat:distribution: <data/csv/financing.csv> ;
+    dcat:distribution: <data/json/financing.json>;
+    dcat:distribution: <data/xml/financing.xml>;
+    foaf:Organization "Unesco";
+    dct:rights "All contents on this website are protected by copyright. UNESCO is pleased to allow those who may choose to access the site to download and copy the materials for their personal, non-commercial use.".
+</data/id/Top_10_Feature_Films>  
+  
+
+<data/id/genre.zip>  
+    a dcat:Dataset;
+    dct:identifier <data/id/genre>;
+    dct:title "CineBudge - Genre  "@en;
+    dct:description "This data contains genres about film released world."@en;
+    foaf:homepage <https://cineBudge.github.io/metadata.html>;
+    dct:modified "2020/03/03"^^xsd:date;
+    dct:rightsHolder <http://data.uis.unesco.org/Index.aspx#>;
+    dct:publisher "Deniz Tural", "Umut Kucuk";
+    dct:issued "2020/03/03"^^xsd:date;
+    dcat:keyword "financing"@en, "majority"@en, "countries"@en ;
+    dct:spatial <http://sws.geonames.org/6695072/>
+    dct:language <https://en.unesco.org/>;
+    dct:language <https://fr.unesco.org/>;
+    dcat:distribution: <data/csv/genre.csv>;
+    dcat:distribution: <data/json/genre.json>;
+    dcat:distribution: <data/xml/genre.xml>;
+    foaf:Organization "Unesco";
+    dct:rights "All contents on this website are protected by copyright. UNESCO is pleased to allow those who may choose to access the site to download and copy the materials for their personal, non-commercial use.".
+</data/id/Top_10_Feature_Films>  
+
+<data/id/admissionEU.zip>  
+    a dcat:Dataset;
+    dct:identifier <data/id/admission_EU>;
+    dct:title "CineBudge - Database on admissions of films released in Europe"@en;
+    dct:description "This data contains admissions of films released in Europe."@en;
+    foaf:homepage <https://cineBudge.github.io/metadata.html>;
+    dct:rightsHolder <http://lumiere.obs.coe.int/>;
+    dct:publisher "Deniz Tural", "Umut Kucuk";
+    dct:issued "01/06/2019"^^xsd:date;
+    dct:modified "2020/03/03"^^xsd:date;
+    dcat:keyword "film"@en, "europe"@en, "release"@en ;
+    dct:spatial <http://sws.geonames.org/6695072/>
+    dct:language <https://en.unesco.org/>;
+    dct:language <https://fr.unesco.org/>;
+    dcat:distribution: <data/csv/admissionEU.csv>;
+    dcat:distribution: <data/json/admissionEU.json>;
+    dcat:distribution: <data/xml/admissionEU.xml>;
+    foaf:Organization "Lumiere";
+    dct:rights "Unless otherwise indicated (e.g. in individual copyright notices), content owned by the EU on this website is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. This means that reuse is allowed, provided appropriate credit is given and changes are indicated.".
+</data/id/admission_EU>  
+
+
+<data/id/digitalStreaming.zip>  
+    a dcat:Dataset;
+    dct:identifier <data/id/digital_streaming>;
+    dct:title "CineBudge - Digital Services Database on Streaming Movies "@en;
+    dct:description "This data contains how many movies and which movies streamed in variety digital services."@en;
+    foaf:homepage <https://cineBudge.github.io/metadata.html>;
+    dct:rightsHolder <http://lumierevod.obs.coe.int/>;
+    dct:publisher "Deniz Tural", "Umut Kucuk";
+    dct:issued "01/06/2019"^^xsd:date;
+    dct:modified "2020/03/03"^^xsd:date;
+    dcat:keyword "film"@en, "europe"@en, "release"@en ;
+    dct:spatial <http://sws.geonames.org/6695072/>;
+    dct:language <https://ec.europa.eu/info/index_en/>;
+    dcat:distribution: <data/csv/digital.streaming.csv>;
+    dcat:distribution: <data/json/digital.streaming.json>;
+    dcat:distribution: <data/xml/digital.streaming.xml>;
+    foaf:Organization "Lumiere Vod";
+    dct:rights "Unless otherwise indicated (e.g. in individual copyright notices), content owned by the EU on this website is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. This means that reuse is allowed, provided appropriate credit is given and changes are indicated.".
+</data/id/admission_EU> 
+
+
+<data/id/pandemic.zip>  
+    a dcat:Dataset;
+    dct:identifier <data/id/pandemic_effection>;
+    dct:title "CineBudge -The number of movie theaters visitors since the beginning of the pandemic"@en;
+    dct:description "This data shows how the number of visitors to places of retail and recreation has changed relative to the period before the pandemic.This includes places like restaurants, cafés, shopping centers, theme parks, museums, libraries, movie theaters. "@en;
+    foaf:homepage <https://cineBudge.github.io/metadata.html>;
+    dct:rightsHolder <https://ourworldindata.org>;
+    dct:source <https://ourworldindata.org/grapher/change-visitors-retail-recreation?stackMode=absolute&time=latest&region=World>;
+    dct:publisher "Deniz Tural", "Umut Kucuk";
+    dct:issued "01/02/2021"^^xsd:date;
+    dct:modified "2020/03/03"^^xsd:date;
+    dcat:keyword "pandemic"@en, "release"@en, "movie"@en ;
+    dct:spatial <http://sws.geonames.org/6695072/>
+    dct:language <https://ourworldindata.org/language/eng>;
+    dcat:distribution: <data/csv/pandemic.csv>;
+    dcat:distribution: <data/json/pandemic.json>;
+    dcat:distribution: <data/xml/pandemic.xml>;
+    foaf:Organization "Our World in Data";
+    dct:rights "All the material produced by Our World in Data, including interactive visualizations and code, are completely open access under the Creative Commons BY license. You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited. All other material, including data produced by third parties and made available by Our World in Data, is subject to the license terms from the original third-party authors.".
+</data/id/admission_EU> 
+
+<data/id/narrativeLocation.zip>  
+    a dcat:Dataset;
+    dct:identifier <data/id/narrative_location>; 
+    dct:title "CineBudge -Movies and their narrative location on a map"@en;
+    dct:description "This data contains all the issued movies related to their countries between 2017-2020 years. "@en;
+    foaf:homepage <https://cineBudge.github.io/metadata.html>;
+    dct:rightsHolder <https://query.wikidata.org/>;
+    dct:publisher "Deniz Tural", "Umut Kucuk";
+    dct:issued "01/03/2021"^^xsd:date;
+    dct:modified "2020/03/03"^^xsd:date;
+    dcat:keyword "movies"@en ;
+    dct:spatial <http://sws.geonames.org/6695072/>;
+    dct:language <https://query.wikidata.org/language/eng>;
+    dcat:distribution: <data/csv/narrativelocation.csv>;
+    dcat:distribution: <data/json/narrativelocation.json>;
+    dcat:distribution: <data/xml/narrativelocation.xml>;
+    foaf:Organization "Wikidata";
+    dct:rights "All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.".
+</data/id/admission_EU> 
+
