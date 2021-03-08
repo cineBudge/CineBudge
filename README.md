@@ -54,6 +54,9 @@ The European Audiovisual Observatory's mission is to gather and distribute infor
 ### Wikidata
 Constantly updating information and data in Wikidata perfectly match with the timeliness. However it is consistency questionable because it is based on the crowd collaboration, and there is not any specific organization that checks the quality of the data. All information in Wikidata can be displayed in any language, even if the data originated in a different language. 
 
+### Our World in Data
+Data can be easily accessed and shared according to the criteria of open access. The organization derives its data from reliable sources. Detailed documentation of the data is available, and all data is published under the Creative Common by 4.0 license. It is possible to use and share data. In addition to all this, the organization also offers the ability to visualize data.
+
 ### 5. Legal Analysis
 To see the complete table about the legal checklist click here
 
