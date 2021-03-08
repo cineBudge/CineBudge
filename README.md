@@ -3,12 +3,12 @@
 The CineBudge project was created by Deniz Tural and Umut Kucuk for the final examination of the Open Access and Digital Ethics course of the Digital Humanities and Digital Knowledge master's degree of Bologna University.
 We created our data set by gathering different data types from different sources about the cinema industry. The scope of the project is to provide legally and ethically clear, reusable, sustainable and updateable data sources free from prejudices and discrimination on the cinema domain.
 
-###2. Scenario
+### 2. Scenario
 The main objective of the project is the analysis of open access data sets and further reuse of the data, with the aim of perceiving moderately current understanding that is accessible and readable by both human and machine.
 We chose cinema as the scenario of the study. Cinema is an important part of the cultural heritage and one of the main industry that affects masses. Accessing cinema data as 5-star open data will contribute firmly to the development of the field as well as many educational studies and commercial events to be conducted on the field.
-In order to explore further on cinema and to enrich our research, we collected our data sets from different sources on topics such as budget, box office, admission, language, co-production, etc. 
+In order to explore further on cinema and to enrich our research, we collected our data sets from different sources on topics such as budget, box office, admission, average ticket price, cinema extenditure etc. 
 
-###3. Original Dataset and Mashup Datasets
+### 3. Original Dataset and Mashup Datasets
 Dataset and Mashup Visualization
 
 In this chapter you can find our datasets:
@@ -114,8 +114,7 @@ dcat:CatalogRecord represents a metadata item in the catalog, primarily concerni
 
 ### 9.Visualization
 To ensure clear understanding of the data and make it more accessible to ordinary users, we have produced 5 interactive visualizations distributed as follows:
-A geomap map, which is a map showing the average of cinema ticket prices between 2013 and 2017, using a color scale. It is possible to view data from 2013 to 2017.
-It is possible to see the bar chart of the same data below.
+A geomap map, which is a map showing the average of cinema ticket prices between 2013 and 2017, using a color scale. It is possible to view data from 2013 to 2017. It is possible to see the bar chart of the same data below.
 
 A GeoMap map, which is a map showing the average budget spent by European countries on cinema between 2013-2017 through a color scale. Again, it is possible to view this data from 2013 to 2017. And in addition, the same data can be displayed as a pie chart.
 In order to draw attention to the decline of cultural activities such as cinema and theater after the pandemic, the embedded map prepared by Our World in Data institution with Google Chart can be actively viewed. The map that is based on all countries is the Choroplets map. Data from February 17, 2020 to February 20, 2021 are stable.
@@ -129,3 +128,4 @@ We also consider the movies and visualize them through a chart. Using Google's B
 In this section, we have created the representation of metadata. The reason we followed the DCAT_AP (v 2.0.0) documentation was to make our data reusable and operable. The RDF claim for the metadata shown at the end of the table following the turtle serialization has also been filed. RDF Assertation
 
 ### 11. Conclusion
+Our aim in the project is to draw attention to Cinema dynamism within the framework of Dcat standards.
