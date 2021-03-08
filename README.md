@@ -128,4 +128,4 @@ We also consider the movies and visualize them through a chart. Using Google's B
 In this section, we have created the representation of metadata. The reason we followed the DCAT_AP (v 2.0.0) documentation was to make our data reusable and operable. The RDF claim for the metadata shown at the end of the table following the turtle serialization has also been filed. RDF Assertation
 
 ### 11. Conclusion
-Our aim in the project is to draw attention to Cinema dynamism within the framework of Dcat standards.
+Our aim in the project is to draw attention to Cinema dynamism within the framework of Dcat standards.In order to accomplish this task we gathered open accessable datasets. We questioned the quality and ethics of this datasets. We used these datasets for demonstrating what is on the web that is available as open access domain related to the cinema. We visualised our data in order to express our narrative.
